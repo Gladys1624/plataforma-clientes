@@ -1,0 +1,1 @@
+Versión profesional preparada en rama de respaldo para promoción controlada a main.
