@@ -1,0 +1,4 @@
+Plataforma Clientes — V1 profesional segura
+Fecha: 2026-08-25
+
+Núcleo: IndexedDB + respaldo/restauración + migración + estructura documental + auditoría.
